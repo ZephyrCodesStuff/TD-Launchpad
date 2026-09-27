@@ -1,4 +1,4 @@
-# TD-GridController
+# TD-Launchpad
 
 A pair of modular TouchDesigner components (`.tox`) providing bi-directional I/O for 8x8 MIDI grid live-performance controllers, such as the Novation Launchpad lineup, DJTechTools's MIDI Fighter series, and 203Systems' Mystrix controllers.
 
